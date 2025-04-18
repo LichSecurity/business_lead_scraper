@@ -25,6 +25,8 @@ Perfect for:
 
 ### 1. Install Requirements
 
+Run the following command to install dependencies:
+
 ```bash
 pip install selenium webdriver-manager
 
@@ -43,17 +45,6 @@ Edit
 leads_output.csv
 With the following columns:
 
-name
-
-phone
-
-category
-
-website
-
-Sample Output
-Each row in the CSV includes:
-
 name: Business name
 
 phone: Phone number (if available)
@@ -62,8 +53,7 @@ category: List of services or business types
 
 website: Direct business website link (if listed)
 
-Example:
-
+Sample Output
 
 Name	Phone	Category	Website
 Bright Smile Dental	(216) 555-1234	Dentists, Cosmetic Dentistry	https://brightsmile.com
